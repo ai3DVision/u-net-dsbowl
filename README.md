@@ -17,13 +17,13 @@ python3 u_net.kaggle_csv.py
 
 ##### Results
 
-![train](/home/papa/git/u_net/ukaggle/data/train.png)
+![train](data/train.png)
 
-![sample1](/home/papa/git/u_net/ukaggle/data/sample1.png)
+![sample1](data/sample1.png)
 
-![sample2](/home/papa/git/u_net/ukaggle/data/sample2.png)
+![sample2](data/sample2.png)
 
-![sample3](/home/papa/git/u_net/ukaggle/data/sample3.png)
+![sample3](data/sample3.png)
 
-![sample4](/home/papa/git/u_net/ukaggle/data/sample4.png)
+![sample4](data/sample4.png)
 
